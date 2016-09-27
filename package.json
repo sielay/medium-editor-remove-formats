@@ -1,0 +1,31 @@
+{
+  "name": "medium-editor-remove-formats",
+  "version": "0.0.1",
+  "description": "Remove formats extension for MediumEditor that removes blocks too",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sielay/medium-editor-remove-formats.git"
+  },
+  "keywords": [
+    "medium",
+    "plain",
+    "text",
+    "medium-editor",
+    "wysywig",
+    "clean",
+    "html",
+    "text"
+  ],
+  "author": "lukaszsielski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sielay/medium-editor-remove-formats/issues"
+  },
+  "homepage": "https://github.com/sielay/medium-editor-remove-formats#readme"
+}
